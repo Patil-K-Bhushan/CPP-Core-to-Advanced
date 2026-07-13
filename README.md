@@ -105,7 +105,7 @@ This repository also includes various practice problems to improve logical think
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CPP.git
+git clone https://github.com/Patil-K-Bhushan/CPP-Core-to-Advance.git
 ```
 
 Compile any program:
